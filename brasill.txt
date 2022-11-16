@@ -1,0 +1,2595 @@
+
+#EXTM3U Albdroid TV
+#EXTINF:-1,PORTAL
+http://168.205.87.198:8555/live/5803/123456/82.ts
+#EXTINF:-1,AGRO BRASIL
+http://168.205.87.198:8555/live/5803/123456/7.ts
+#EXTINF:-1,AGRO CANAL
+http://168.205.87.198:8555/live/5803/123456/10.ts
+#EXTINF:-1,AGROMAIS
+http://168.205.87.198:8555/live/5803/123456/175.ts
+#EXTINF:-1,ALL SPORTS
+http://168.205.87.198:8555/live/5803/123456/148.ts
+#EXTINF:-1,AMERICA LATINO
+http://168.205.87.198:8555/live/5803/123456/16.ts
+#EXTINF:-1,ARTE1
+http://168.205.87.198:8555/live/5803/123456/170.ts
+#EXTINF:-1,AWTV
+http://168.205.87.198:8555/live/5803/123456/181.ts
+#EXTINF:-1,BAND NEWS
+http://168.205.87.198:8555/live/5803/123456/174.ts
+#EXTINF:-1,BAND SPORTS
+http://168.205.87.198:8555/live/5803/123456/176.ts
+#EXTINF:-1,BAND
+http://168.205.87.198:8555/live/5803/123456/19.ts
+#EXTINF:-1,BOA VONTADE TV
+http://168.205.87.198:8555/live/5803/123456/21.ts
+#EXTINF:-1,BRA
+http://168.205.87.198:8555/live/5803/123456/24.ts
+#EXTINF:-1,BRSUPER TV
+http://168.205.87.198:8555/live/5803/123456/147.ts
+#EXTINF:-1,CANAL DO BOI
+http://168.205.87.198:8555/live/5803/123456/167.ts
+#EXTINF:-1,CANAL RURAL
+http://168.205.87.198:8555/live/5803/123456/166.ts
+#EXTINF:-1,CANAL SAÚDE
+http://168.205.87.198:8555/live/5803/123456/165.ts
+#EXTINF:-1,CANAL YEEAAH
+http://168.205.87.198:8555/live/5803/123456/193.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://168.205.87.198:8555/live/5803/123456/25.ts
+#EXTINF:-1,CENTRAL TV
+http://168.205.87.198:8555/live/5803/123456/177.ts
+#EXTINF:-1,CHESPIRITO
+http://168.205.87.198:8555/live/5803/123456/159.ts
+#EXTINF:-1,CINE BRASIL
+http://168.205.87.198:8555/live/5803/123456/145.ts
+#EXTINF:-1,CLASSIC HITS
+http://168.205.87.198:8555/live/5803/123456/27.ts
+#EXTINF:-1,CLASSIQUE TV
+http://168.205.87.198:8555/live/5803/123456/190.ts
+#EXTINF:-1,CLC FILMES CLÁSSICOS
+http://168.205.87.198:8555/live/5803/123456/198.ts
+#EXTINF:-1,CNT
+http://168.205.87.198:8555/live/5803/123456/150.ts
+#EXTINF:-1,CULTURA
+http://168.205.87.198:8555/live/5803/123456/32.ts
+#EXTINF:-1,CULT
+http://168.205.87.198:8555/live/5803/123456/30.ts
+#EXTINF:-1,EXTREMO ORIENTAL TV
+http://168.205.87.198:8555/live/5803/123456/196.ts
+#EXTINF:-1,FANDOM TV
+http://168.205.87.198:8555/live/5803/123456/197.ts
+#EXTINF:-1,FASHION TV
+http://168.205.87.198:8555/live/5803/123456/61.ts
+#EXTINF:-1,FISH TV
+http://168.205.87.198:8555/live/5803/123456/62.ts
+#EXTINF:-1,FUTURA
+http://168.205.87.198:8555/live/5803/123456/67.ts
+#EXTINF:-1,GAZETA
+http://168.205.87.198:8555/live/5803/123456/69.ts
+#EXTINF:-1,GLOBO MINAS
+http://168.205.87.198:8555/live/5803/123456/70.ts
+#EXTINF:-1,HITTS
+http://168.205.87.198:8555/live/5803/123456/72.ts
+#EXTINF:-1,JP NEWS
+http://168.205.87.198:8555/live/5803/123456/161.ts
+#EXTINF:-1,KIDS
+http://168.205.87.198:8555/live/5803/123456/143.ts
+#EXTINF:-1,LIFE CHANNEL BRASIL
+http://168.205.87.198:8555/live/5803/123456/192.ts
+#EXTINF:-1,LOADING TV
+http://168.205.87.198:8555/live/5803/123456/142.ts
+#EXTINF:-1,MASTER TV
+http://168.205.87.198:8555/live/5803/123456/74.ts
+#EXTINF:-1,MEGA
+http://168.205.87.198:8555/live/5803/123456/75.ts
+#EXTINF:-1,MUSIC BOX
+http://168.205.87.198:8555/live/5803/123456/77.ts
+#EXTINF:-1,NOVA TV
+http://168.205.87.198:8555/live/5803/123456/195.ts
+#EXTINF:-1,NOVO TEMPO
+http://168.205.87.198:8555/live/5803/123456/149.ts
+#EXTINF:-1,ONDA OESTE
+http://168.205.87.198:8555/live/5803/123456/169.ts
+#EXTINF:-1,OX TV
+http://168.205.87.198:8555/live/5803/123456/194.ts
+#EXTINF:-1,PAI ETERNO
+http://168.205.87.198:8555/live/5803/123456/144.ts
+#EXTINF:-1,POLISHOP
+http://168.205.87.198:8555/live/5803/123456/153.ts
+#EXTINF:-1,PRIME BOX
+http://168.205.87.198:8555/live/5803/123456/83.ts
+#EXTINF:-1,QUEENS UNITED TV
+http://168.205.87.198:8555/live/5803/123456/199.ts
+#EXTINF:-1,RATIMBUM
+http://168.205.87.198:8555/live/5803/123456/84.ts
+#EXTINF:-1,RECORD MINAS
+http://168.205.87.198:8555/live/5803/123456/96.ts
+#EXTINF:-1,RECORD NEWS
+http://168.205.87.198:8555/live/5803/123456/97.ts
+#EXTINF:-1,REDE FAMILIA
+http://168.205.87.198:8555/live/5803/123456/151.ts
+#EXTINF:-1,REDE GENESIS
+http://168.205.87.198:8555/live/5803/123456/98.ts
+#EXTINF:-1,REDE METROPOLE
+http://168.205.87.198:8555/live/5803/123456/99.ts
+#EXTINF:-1,REDE MINAS
+http://168.205.87.198:8555/live/5803/123456/101.ts
+#EXTINF:-1,REDE SUPER
+http://168.205.87.198:8555/live/5803/123456/163.ts
+#EXTINF:-1,REDE TV
+http://168.205.87.198:8555/live/5803/123456/102.ts
+#EXTINF:-1,REDE VIDA
+http://168.205.87.198:8555/live/5803/123456/103.ts
+#EXTINF:-1,RIT
+http://168.205.87.198:8555/live/5803/123456/168.ts
+#EXTINF:-1,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/5803/123456/85.ts
+#EXTINF:-1,RÁDIO FESTA
+http://168.205.87.198:8555/live/5803/123456/86.ts
+#EXTINF:-1,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/5803/123456/87.ts
+#EXTINF:-1,RÁDIO METAL
+http://168.205.87.198:8555/live/5803/123456/89.ts
+#EXTINF:-1,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/5803/123456/88.ts
+#EXTINF:-1,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/5803/123456/90.ts
+#EXTINF:-1,RÁDIO PAGODE
+http://168.205.87.198:8555/live/5803/123456/91.ts
+#EXTINF:-1,RÁDIO POP HITS
+http://168.205.87.198:8555/live/5803/123456/92.ts
+#EXTINF:-1,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/5803/123456/93.ts
+#EXTINF:-1,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/5803/123456/95.ts
+#EXTINF:-1,SABOR E ARTE
+http://168.205.87.198:8555/live/5803/123456/172.ts
+#EXTINF:-1,SBT ALTEROSA
+http://168.205.87.198:8555/live/5803/123456/104.ts
+#EXTINF:-1,SCH
+http://168.205.87.198:8555/live/5803/123456/105.ts
+#EXTINF:-1,SECULO 21
+http://168.205.87.198:8555/live/5803/123456/106.ts
+#EXTINF:-1,SESC TV
+http://168.205.87.198:8555/live/5803/123456/107.ts
+#EXTINF:-1,SHOPTIME
+http://168.205.87.198:8555/live/5803/123456/164.ts
+#EXTINF:-1,SMITHSONIAN
+http://168.205.87.198:8555/live/5803/123456/173.ts
+#EXTINF:-1,SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/5803/123456/160.ts
+#EXTINF:-1,TCM HD
+http://168.205.87.198:8555/live/5803/123456/187.ts
+#EXTINF:-1,TERRA VIVA
+http://168.205.87.198:8555/live/5803/123456/171.ts
+#EXTINF:-1,TRAVEL
+http://168.205.87.198:8555/live/5803/123456/124.ts
+#EXTINF:-1,TV APARECIDA
+http://168.205.87.198:8555/live/5803/123456/131.ts
+#EXTINF:-1,TV BRASIL 2
+http://168.205.87.198:8555/live/5803/123456/135.ts
+#EXTINF:-1,TV BRASIL
+http://168.205.87.198:8555/live/5803/123456/134.ts
+#EXTINF:-1,TV BRUSQUE
+http://168.205.87.198:8555/live/5803/123456/183.ts
+#EXTINF:-1,TV CÂMARA
+http://168.205.87.198:8555/live/5803/123456/136.ts
+#EXTINF:-1,TV ESCOLA
+http://168.205.87.198:8555/live/5803/123456/137.ts
+#EXTINF:-1,TV EVANGELIZAR
+http://168.205.87.198:8555/live/5803/123456/189.ts
+#EXTINF:-1,TV JUSTIÇA
+http://168.205.87.198:8555/live/5803/123456/138.ts
+#EXTINF:-1,TV SENADO
+http://168.205.87.198:8555/live/5803/123456/139.ts
+#EXTINF:-1,TV TURFE
+http://168.205.87.198:8555/live/5803/123456/152.ts
+#EXTINF:-1,VRT CHANNEL
+http://168.205.87.198:8555/live/5803/123456/146.ts
+#EXTINF:-1,WOOHOO
+http://168.205.87.198:8555/live/5803/123456/141.ts
+#EXTINF:-1,ZOOMOO
+http://168.205.87.198:8555/live/5803/123456/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="-= Brazil =-" tvg-logo="https://cdn4.iconfinder.com/data/icons/flag_set/128/br.png" group-title="Brazil",-= Brazil =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12150
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD BR" tvg-logo="" group-title="Brazil",A&E HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46500
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD BR" tvg-logo="" group-title="Brazil",AMC HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46501
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD BR" tvg-logo="" group-title="Brazil",Animal Planet HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46502
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD BR" tvg-logo="" group-title="Brazil",AXN HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46504
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD BR" tvg-logo="" group-title="Brazil",Band Sports HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46507
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD BR" tvg-logo="" group-title="Brazil",Boomerang HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD BR" tvg-logo="" group-title="Brazil",Canal Brasil HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46509
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon HD BR" tvg-logo="" group-title="Brazil",Cartoon HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46510
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon 4K UHD BR" tvg-logo="" group-title="Brazil",Cartoon 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51181
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD BR" tvg-logo="" group-title="Brazil",Cinemax HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="Cnn Internacional HD BR" tvg-logo="" group-title="Brazil",Cnn Internacional HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46512
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD BR" tvg-logo="" group-title="Brazil",Combate HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46513
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD BR" tvg-logo="" group-title="Brazil",Comedy Central HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46514
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD BR" tvg-logo="" group-title="Brazil",Cultura HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46515
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD BR" tvg-logo="" group-title="Brazil",Discovery Civilization HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46516
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H H HD BR" tvg-logo="" group-title="Brazil",Discovery H H HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46517
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery HD BR" tvg-logo="" group-title="Brazil",Discovery HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46518
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD BR" tvg-logo="" group-title="Brazil",Discovery Kids HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46519
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD BR" tvg-logo="" group-title="Brazil",Discovery Science HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46520
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theather HD BR" tvg-logo="" group-title="Brazil",Discovery Theather HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46521
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD BR" tvg-logo="" group-title="Brazil",Discovery Turbo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46522
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD BR" tvg-logo="" group-title="Brazil",Discovery World HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46523
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD BR" tvg-logo="" group-title="Brazil",Disney Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46524
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K UHD BR" tvg-logo="" group-title="Brazil",Discovery Channel 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51183
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD BR" tvg-logo="" group-title="Brazil",Disney XD HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46526
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD BR" tvg-logo="" group-title="Brazil",Disney Junior HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46525
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD BR" tvg-logo="" group-title="Brazil",E! HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46527
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn HD BR" tvg-logo="" group-title="Brazil",Espn HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46528
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="Espn 2 HD BR" tvg-logo="" group-title="Brazil",Espn 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/82884
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn Br HD BR" tvg-logo="" group-title="Brazil",Espn Br HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46529
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD BR" tvg-logo="" group-title="Brazil",Food Network HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46534
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD BR" tvg-logo="" group-title="Brazil",Fox HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46535
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD BR" tvg-logo="" group-title="Brazil",Fox Life HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46536
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD BR" tvg-logo="" group-title="Brazil",Fox Sports HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46540
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD BR" tvg-logo="" group-title="Brazil",Fox Sports 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46539
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD BR" tvg-logo="" group-title="Brazil",Globo News HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46543
+#EXTINF:-1 tvg-id="fx.br" tvg-name="Fx HD BR" tvg-logo="" group-title="Brazil",Fx HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46542
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ FHD BR" tvg-logo="" group-title="Brazil",Globo RJ FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46541
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="Gnt HD BR" tvg-logo="" group-title="Brazil",Gnt HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46547
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo TV HD BR" tvg-logo="" group-title="Brazil",Globo TV HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46546
+#EXTINF:-1 tvg-id="" tvg-name="Globo 4K UHD BR" tvg-logo="" group-title="Brazil",Globo 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51187
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD BR" tvg-logo="" group-title="Brazil",GLOBO EPTV CAMPINAS HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355923
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Ponta Grossa FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355922
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Maringa FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355921
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Foz do Iguaçu FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355920
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Curitiba FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355919
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD BR" tvg-logo="" group-title="Brazil",Globo RJ FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355918
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica FHD BR" tvg-logo="" group-title="Brazil",Globo Rede Amazonica FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355917
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV Santa Maria FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355916
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV POA FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355915
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV Pelotas FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355914
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV Caxias do Sul FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355913
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV 4K BR" tvg-logo="" group-title="Brazil",Globo RBS TV 4K BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355912
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Joinville FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355911
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Criciuma FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355910
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapeco FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Chapeco FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355909
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Blumenau FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355908
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis FHD BR" tvg-logo="" group-title="Brazil",Globo NSC Florianopolis FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355907
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Centro Oeste FHD BR" tvg-logo="" group-title="Brazil",Globo NSC Centro Oeste FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355906
+#EXTINF:-1 tvg-id="" tvg-name="Globo NOW BR" tvg-logo="" group-title="Brazil",Globo NOW BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355905
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD BR" tvg-logo="" group-title="Brazil",Globo Minas FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355904
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Grande Minas FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355903
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Cabugi FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355902
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Alto Litoral FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355901
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT FHD BR" tvg-logo="" group-title="Brazil",Globo Inter PT FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355900
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Cabugi HD BR" tvg-logo="" group-title="Brazil",Globo Inter Cabugi HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355899
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos BR" tvg-logo="" group-title="Brazil",Globo EPTV São Carlos BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355898
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD BR" tvg-logo="" group-title="Brazil",Globo EPTV Sul de Minas FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355897
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto BR" tvg-logo="" group-title="Brazil",Globo EPTV Ribeirão Preto BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355896
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas FHD BR" tvg-logo="" group-title="Brazil",Globo EPTV Campinas FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355895
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America FHD BR" tvg-logo="" group-title="Brazil",Globo Centro America FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355894
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD BR" tvg-logo="" group-title="Brazil",Globo Amazônica HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355893
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazonica Manaus HD BR" tvg-logo="" group-title="Brazil",Globo Amazonica Manaus HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355892
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PT HD BR" tvg-logo="" group-title="Brazil",GLOBO PT HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355891
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD BR" tvg-logo="" group-title="Brazil",GLOBO NEWS HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/355890
+#EXTINF:-1 tvg-id="" tvg-name="Globo Pt HD BR" tvg-logo="" group-title="Brazil",Globo Pt HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46545
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD BR" tvg-logo="" group-title="Brazil",Studio Universal HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46598
+#EXTINF:-1 tvg-id="" tvg-name="Globo Eptv Campinas HD BR" tvg-logo="" group-title="Brazil",Globo Eptv Campinas HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46537
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv HD BR" tvg-logo="" group-title="Brazil",Sportv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46597
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 HD BR" tvg-logo="" group-title="Brazil",Sportv 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46596
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD BR" tvg-logo="" group-title="Brazil",Space HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46594
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony BR" tvg-logo="" group-title="Brazil",Sony BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46593
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD BR" tvg-logo="" group-title="Brazil",Sony HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46592
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime BR" tvg-logo="" group-title="Brazil",Shoptime BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46590
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt HD BR" tvg-logo="" group-title="Brazil",Sbt HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46589
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida BR" tvg-logo="" group-title="Brazil",Rede Vida BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46587
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede Tv HD BR" tvg-logo="" group-title="Brazil",Rede Tv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46586
+#EXTINF:-1 tvg-id="" tvg-name="Rede New BR" tvg-logo="" group-title="Brazil",Rede New BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46585
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD BR" tvg-logo="" group-title="Brazil",Record News HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46583
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD BR" tvg-logo="" group-title="Brazil",Record HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46582
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Ra Tim Bum HD BR" tvg-logo="" group-title="Brazil",Ra Tim Bum HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46581
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD BR" tvg-logo="" group-title="Brazil",Premiere Clubes HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46579
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD BR" tvg-logo="" group-title="Brazil",Premiere 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46573
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD BR" tvg-logo="" group-title="Brazil",Premiere 3 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46574
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD BR" tvg-logo="" group-title="Brazil",Premiere 4 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46575
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD BR" tvg-logo="" group-title="Brazil",Premiere 5 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46576
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD BR" tvg-logo="" group-title="Brazil",Premiere 6 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46577
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD BR" tvg-logo="" group-title="Brazil",Premiere 7 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46578
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off HD BR" tvg-logo="" group-title="Brazil",Off HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46570
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount HD BR" tvg-logo="" group-title="Brazil",Paramount HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46571
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD BR" tvg-logo="" group-title="Brazil",Nick HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46568
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD BR" tvg-logo="" group-title="Brazil",Nat Geo Wild HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46567
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD BR" tvg-logo="" group-title="Brazil",Nat Geo Kids HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46566
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="Mtv Live HD BR" tvg-logo="" group-title="Brazil",Mtv Live HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46563
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="Mtv HD BR" tvg-logo="" group-title="Brazil",Mtv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46562
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD BR" tvg-logo="" group-title="Brazil",Megapix HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46561
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K UHD BR" tvg-logo="" group-title="Brazil",Megapix 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51188
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD BR" tvg-logo="" group-title="Brazil",Multishow HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46564
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max Up HD BR" tvg-logo="" group-title="Brazil",Max Up HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46560
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD BR" tvg-logo="" group-title="Brazil",Max Prime HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46559
+#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD BR" tvg-logo="" group-title="Brazil",Max HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46558
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD BR" tvg-logo="" group-title="Brazil",Lifetime HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46556
+#EXTINF:-1 tvg-id="" tvg-name="Id HD BR" tvg-logo="" group-title="Brazil",Id HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46555
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History HD BR" tvg-logo="" group-title="Brazil",History HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46554
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD BR" tvg-logo="" group-title="Brazil",HBO Signature HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46552
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD BR" tvg-logo="" group-title="Brazil",HBO Plus HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46551
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD BR" tvg-logo="" group-title="Brazil",HBO HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46550
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD BR" tvg-logo="" group-title="Brazil",HBO Family HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46549
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD BR" tvg-logo="" group-title="Brazil",Zoomoo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46625
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD BR" tvg-logo="" group-title="Brazil",Woohoo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46624
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD BR" tvg-logo="" group-title="Brazil",Warner Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46623
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD BR" tvg-logo="" group-title="Brazil",Viva HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46622
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD BR" tvg-logo="" group-title="Brazil",Universal Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46619
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD BR" tvg-logo="" group-title="Brazil",TV Brasil HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46612
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD BR" tvg-logo="" group-title="Brazil",Tooncast HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46610
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD BR" tvg-logo="" group-title="Brazil",TNT HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46609
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K UHD BR" tvg-logo="" group-title="Brazil",TNT Series 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51196
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD BR" tvg-logo="" group-title="Brazil",TLC HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46608
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD BR" tvg-logo="" group-title="Brazil",Telecine Touch HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46607
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD BR" tvg-logo="" group-title="Brazil",Telecine Premium HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46606
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD BR" tvg-logo="" group-title="Brazil",Telecine Fun HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46604
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD BR" tvg-logo="" group-title="Brazil",Telecine Cult HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46603
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD BR" tvg-logo="" group-title="Brazil",Telecine Action HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46602
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD BR" tvg-logo="" group-title="Brazil",TCM HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46601
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD BR" tvg-logo="" group-title="Brazil",Syfy HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46599
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD BR" tvg-logo="" group-title="Brazil",TBS HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46600
+#EXTINF:-1 tvg-id="" tvg-name="### BRASIL ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" group-title="International Sport Channels",### BRASIL ###
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159596
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="International Sport Channels",BR: Band Sports
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="International Sport Channels",BR: ESPN 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="International Sport Channels",BR: ESPN 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="International Sport Channels",BR: ESPN Extra HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="International Sport Channels",BR: Espn HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2 HD" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="International Sport Channels",BR: Fox Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo AMAZONAS HD" tvg-logo="https://www.pngitem.com/pimgs/m/51-513970_rede-globo-hd-png-download.png" group-title="International Sport Channels",BR: Globo AMAZONAS HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159603
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="International Sport Channels",BR: Sportv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv  3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="International Sport Channels",BR: Sportv  3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="International Sport Channels",BR: Sportv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
+#EXTINF:-1 tvg-id="" tvg-name="RU: Eurosport1 HD" tvg-logo="http://worldiptv.xyz/chlogos/eurosport.jpg" group-title="International Sport Channels",RU: Eurosport1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609
+#EXTINF:-1,3 Palavrinhas 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163296
+#EXTINF:-1,A CASA DAS BRASILEIRINHAS 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163306
+#EXTINF:-1,A FAZENDA 14 SINAL 1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163054
+#EXTINF:-1,A FAZENDA 14 SINAL 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163055
+#EXTINF:-1,A FAZENDA 14 SINAL 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163056
+#EXTINF:-1,A FAZENDA 14 SINAL 4 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163057
+#EXTINF:-1,A FAZENDA 14 SINAL 5 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163058
+#EXTINF:-1,A FAZENDA 14 SINAL 6 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163059
+#EXTINF:-1,A FAZENDA 14 SINAL 7 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163060
+#EXTINF:-1,A FAZENDA 14 SINAL 8 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163061
+#EXTINF:-1,A FAZENDA 14 SINAL 9 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163062
+#EXTINF:-1,A Feiticeira 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163303
+#EXTINF:-1,A GATA COMEU 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163319
+#EXTINF:-1,A Grande Familia 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163297
+#EXTINF:-1,A&E FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162479
+#EXTINF:-1,A&E FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162520
+#EXTINF:-1,A&E HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162480
+#EXTINF:-1,A&E SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162545
+#EXTINF:-1,AGROMAIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163040
+#EXTINF:-1,AGROMAIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163041
+#EXTINF:-1,AGROMAIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163043
+#EXTINF:-1,ALADIN 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163219
+#EXTINF:-1,AMAZON PRIME JOGO 1
+http://top.streancdn.fun:80/0987654321/1234567890/2162478
+#EXTINF:-1,AMAZON PRIME JOGO 2
+http://top.streancdn.fun:80/0987654321/1234567890/2162470
+#EXTINF:-1,AMAZON PRIME JOGO 3
+http://top.streancdn.fun:80/0987654321/1234567890/2162471
+#EXTINF:-1,AMAZON PRIME JOGO 4
+http://top.streancdn.fun:80/0987654321/1234567890/2162472
+#EXTINF:-1,AMC FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162481
+#EXTINF:-1,AMC FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162521
+#EXTINF:-1,AMC HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162482
+#EXTINF:-1,AMC SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162546
+#EXTINF:-1,Animal Planet 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163117
+#EXTINF:-1,ANIMAL PLANET FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162567
+#EXTINF:-1,ANIMAL PLANET FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162594
+#EXTINF:-1,ANIMAL PLANET HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162568
+#EXTINF:-1,ANIMAL PLANET SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162610
+#EXTINF:-1,ARTE 1 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162739
+#EXTINF:-1,ARTE 1 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162748
+#EXTINF:-1,ARTE 1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162738
+#EXTINF:-1,ARTE 1 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162749
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163220
+#EXTINF:-1,ASTRO BOY 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163314
+#EXTINF:-1,AXN FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162483
+#EXTINF:-1,AXN FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162522
+#EXTINF:-1,AXN HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162484
+#EXTINF:-1,AXN SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162547
+#EXTINF:-1,BABY TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162623
+#EXTINF:-1,BABY TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162653
+#EXTINF:-1,Band 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163111
+#EXTINF:-1,BAND BAHIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162700
+#EXTINF:-1,BAND BRASILIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162690
+#EXTINF:-1,BAND CAMPINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162696
+#EXTINF:-1,BAND CAMPINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162691
+#EXTINF:-1,BAND CURITIBA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162697
+#EXTINF:-1,BAND CURITIBA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162695
+#EXTINF:-1,BAND MINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162699
+#EXTINF:-1,BAND MINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162698
+#EXTINF:-1,BAND NEWS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162664
+#EXTINF:-1,BAND NEWS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162671
+#EXTINF:-1,BAND NEWS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162665
+#EXTINF:-1,BAND NEWS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162679
+#EXTINF:-1,BAND PARANA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162694
+#EXTINF:-1,BAND RJ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162689
+#EXTINF:-1,BAND RJ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162684
+#EXTINF:-1,BAND RS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162692
+#EXTINF:-1,BAND SERGIPE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162693
+#EXTINF:-1,BAND SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162685
+#EXTINF:-1,BAND SP FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162701
+#EXTINF:-1,BAND SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162686
+#EXTINF:-1,BAND SP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162702
+#EXTINF:-1,BAND SPORTS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163165
+#EXTINF:-1,BAND SPORTS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163166
+#EXTINF:-1,BAND SPORTS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163167
+#EXTINF:-1,BAND SPORTS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163201
+#EXTINF:-1,BAND TV GOIANIA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162687
+#EXTINF:-1,BAND TV GOIANIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162688
+#EXTINF:-1,BARBIE 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163311
+#EXTINF:-1,BARRETOS 2022 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163322
+#EXTINF:-1,BBC WORLD FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162677
+#EXTINF:-1,BBC WORLD HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162675
+#EXTINF:-1,BEN 10 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163221
+#EXTINF:-1,BIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162703
+#EXTINF:-1,BIS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162727
+#EXTINF:-1,BIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162704
+#EXTINF:-1,BIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162750
+#EXTINF:-1,Bita e os Animais 24hrs
+http://top.streancdn.fun:80/0987654321/1234567890/2163298
+#EXTINF:-1,BOB ESPONJA 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163222
+#EXTINF:-1,BRASILEIRÃO SERIE C (JOGO 1)
+http://top.streancdn.fun:80/0987654321/1234567890/2162467
+#EXTINF:-1,BRASILEIRÃO SERIE C (JOGO 2)
+http://top.streancdn.fun:80/0987654321/1234567890/2162468
+#EXTINF:-1,BRASILEIRÃO SERIE C (JOGO 3)
+http://top.streancdn.fun:80/0987654321/1234567890/2162469
+#EXTINF:-1,Breaking Bad 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163223
+#EXTINF:-1,CANAL BRASIL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162485
+#EXTINF:-1,CANAL BRASIL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162523
+#EXTINF:-1,CANAL BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162486
+#EXTINF:-1,CANAL BRASIL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162548
+#EXTINF:-1,CANAL DO BOI HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163035
+#EXTINF:-1,CANAL RURAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163044
+#EXTINF:-1,CANAL SONY FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162487
+#EXTINF:-1,CANAL SONY FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162524
+#EXTINF:-1,CANAL SONY HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162488
+#EXTINF:-1,CANAL SONY SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162549
+#EXTINF:-1,CANCAO NOVA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162764
+#EXTINF:-1,CANCAO NOVA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162774
+#EXTINF:-1,CAO CORAGEM 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163224
+#EXTINF:-1,Cartoon Network 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163118
+#EXTINF:-1,CARTOON NETWORK FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162625
+#EXTINF:-1,CARTOON NETWORK FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162644
+#EXTINF:-1,CARTOON NETWORK HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162626
+#EXTINF:-1,CARTOON NETWORK SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162654
+#EXTINF:-1,CARTOONITO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162624
+#EXTINF:-1,CARTOONITO FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162643
+#EXTINF:-1,CARTOONITO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162650
+#EXTINF:-1,CARTOONITO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162655
+#EXTINF:-1,Caverna do Dragão 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163225
+#EXTINF:-1,CENTRAL KIDS 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163309
+#EXTINF:-1,Chapolin Colorado 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163226
+#EXTINF:-1,CHAVES 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163227
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163228
+#EXTINF:-1,CHEF AO PE DO OUVIDO 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163321
+#EXTINF:-1,CHEFE TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162743
+#EXTINF:-1,CINE KIDS 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163316
+#EXTINF:-1,CINEMAX FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162489
+#EXTINF:-1,CINEMAX FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162525
+#EXTINF:-1,CINEMAX HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162490
+#EXTINF:-1,CINEMAX SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162550
+#EXTINF:-1,CNN BRASIL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162666
+#EXTINF:-1,CNN BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162667
+#EXTINF:-1,CNN BRASIL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162680
+#EXTINF:-1,Combate 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163119
+#EXTINF:-1,COMBATE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163168
+#EXTINF:-1,COMBATE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163169
+#EXTINF:-1,COMBATE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163170
+#EXTINF:-1,COMBATE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163202
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162705
+#EXTINF:-1,COMEDY CENTRAL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162728
+#EXTINF:-1,COMEDY CENTRAL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162706
+#EXTINF:-1,COMEDY CENTRAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162751
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162454
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162455
+#EXTINF:-1,CONMEBOL TV 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162456
+#EXTINF:-1,CONMEBOL TV 4 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162457
+#EXTINF:-1,CURTA! FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162543
+#EXTINF:-1,CURTA! FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162544
+#EXTINF:-1,CURTA! HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162542
+#EXTINF:-1,CURTA! SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162551
+#EXTINF:-1,DAZN 04 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162466
+#EXTINF:-1,DAZN 1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162436
+#EXTINF:-1,DAZN 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162437
+#EXTINF:-1,DAZN 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162438
+#EXTINF:-1,Denis o Pimentinha 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163229
+#EXTINF:-1,Desenhos Biblicos 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163230
+#EXTINF:-1,Desenhos Disney 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163231
+#EXTINF:-1,Digimon 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163232
+#EXTINF:-1,Discovery Channel 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163120
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162569
+#EXTINF:-1,DISCOVERY CHANNEL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162595
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162570
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162611
+#EXTINF:-1,DISCOVERY H&H FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162571
+#EXTINF:-1,DISCOVERY H&H FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162596
+#EXTINF:-1,DISCOVERY H&H HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162572
+#EXTINF:-1,DISCOVERY H&H SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162612
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162627
+#EXTINF:-1,DISCOVERY KIDS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162645
+#EXTINF:-1,DISCOVERY KIDS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162628
+#EXTINF:-1,DISCOVERY KIDS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162613
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162573
+#EXTINF:-1,DISCOVERY SCIENCE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162597
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162574
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162614
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162575
+#EXTINF:-1,DISCOVERY THEATER FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162598
+#EXTINF:-1,DISCOVERY THEATER HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162576
+#EXTINF:-1,DISCOVERY THEATER SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162615
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162577
+#EXTINF:-1,DISCOVERY TURBO FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162599
+#EXTINF:-1,DISCOVERY TURBO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162578
+#EXTINF:-1,DISCOVERY TURBO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162616
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162579
+#EXTINF:-1,DISCOVERY WORLD FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162600
+#EXTINF:-1,DISCOVERY WORLD HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162580
+#EXTINF:-1,DISCOVERY WORLD SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162617
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162629
+#EXTINF:-1,DISNEY CHANNEL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162646
+#EXTINF:-1,DISNEY CHANNEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162630
+#EXTINF:-1,DISNEY CHANNEL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162656
+#EXTINF:-1,DOG TV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162581
+#EXTINF:-1,DOG TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162582
+#EXTINF:-1,Dois Homens e Meio 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163233
+#EXTINF:-1,Doug 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163234
+#EXTINF:-1,DRAGON BALL 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163235
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163236
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163237
+#EXTINF:-1,E! FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162707
+#EXTINF:-1,E! FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162729
+#EXTINF:-1,E! HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162708
+#EXTINF:-1,E! SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162752
+#EXTINF:-1,Eleven Sports 01 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162439
+#EXTINF:-1,Eleven Sports 02 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162440
+#EXTINF:-1,Eleven Sports 03 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162441
+#EXTINF:-1,Eleven Sports 04 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162442
+#EXTINF:-1,Eleven Sports 05 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162443
+#EXTINF:-1,Eleven Sports 06 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162444
+#EXTINF:-1,Eleven Sports 07 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162445
+#EXTINF:-1,Eleven Sports 08 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162446
+#EXTINF:-1,Eleven Sports 09 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162447
+#EXTINF:-1,Eleven Sports 10 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162448
+#EXTINF:-1,ESPIOES DO ASFALTO 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163218
+#EXTINF:-1,ESPN 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163174
+#EXTINF:-1,ESPN 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163175
+#EXTINF:-1,ESPN 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163176
+#EXTINF:-1,ESPN 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163203
+#EXTINF:-1,ESPN 3 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163177
+#EXTINF:-1,ESPN 3 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163178
+#EXTINF:-1,ESPN 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163179
+#EXTINF:-1,ESPN 3 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163204
+#EXTINF:-1,ESPN 4 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163122
+#EXTINF:-1,ESPN 4 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163180
+#EXTINF:-1,ESPN 4 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163181
+#EXTINF:-1,ESPN 4 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163182
+#EXTINF:-1,ESPN 4 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163205
+#EXTINF:-1,ESPN 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163131
+#EXTINF:-1,ESPN EXTRA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163183
+#EXTINF:-1,ESPN EXTRA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163184
+#EXTINF:-1,ESPN EXTRA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163185
+#EXTINF:-1,ESPN EXTRA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163206
+#EXTINF:-1,ESPN FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163186
+#EXTINF:-1,ESPN FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163187
+#EXTINF:-1,ESPN HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163188
+#EXTINF:-1,ESPN SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163207
+#EXTINF:-1,ESTADIO TNT SPORTS 1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162449
+#EXTINF:-1,ESTADIO TNT SPORTS 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162450
+#EXTINF:-1,ESTADIO TNT SPORTS 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162451
+#EXTINF:-1,ESTADIO TNT SPORTS 4 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162452
+#EXTINF:-1,ESTADIO TNT SPORTS 5 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162453
+#EXTINF:-1,Eu a Patroa e as Crianças 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163238
+#EXTINF:-1,FILM & ART HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162539
+#EXTINF:-1,FILM & ARTS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162540
+#EXTINF:-1,FILM & ARTS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162552
+#EXTINF:-1,FISH TV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162607
+#EXTINF:-1,FISH TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162608
+#EXTINF:-1,FISH TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162618
+#EXTINF:-1,FOOD NETWORK FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162709
+#EXTINF:-1,FOOD NETWORK FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162730
+#EXTINF:-1,FOOD NETWORK HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162710
+#EXTINF:-1,FOOD NETWORK SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162753
+#EXTINF:-1,Formiga Atómica 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163239
+#EXTINF:-1,FORMULA 1 TV
+http://top.streancdn.fun:80/0987654321/1234567890/2162475
+#EXTINF:-1,FOX SPORTS 2 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163133
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163171
+#EXTINF:-1,FOX SPORTS 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163172
+#EXTINF:-1,FOX SPORTS 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163173
+#EXTINF:-1,FOX SPORTS 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163208
+#EXTINF:-1,FURACÃO TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162477
+#EXTINF:-1,FUTURA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163036
+#EXTINF:-1,FUTURA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163045
+#EXTINF:-1,FX FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162491
+#EXTINF:-1,FX FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162526
+#EXTINF:-1,FX HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162492
+#EXTINF:-1,FX SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162553
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163240
+#EXTINF:-1,Globo 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163123
+#EXTINF:-1,GLOBO ANHANGUERA ANAPOLIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162887
+#EXTINF:-1,GLOBO ANHANGUERA ANAPOLIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162886
+#EXTINF:-1,GLOBO ANHANGUERA CATALAO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162889
+#EXTINF:-1,GLOBO ANHANGUERA CATALAO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162888
+#EXTINF:-1,GLOBO ANHANGUERA ITUMBIARA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162891
+#EXTINF:-1,GLOBO ANHANGUERA ITUMBIARA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162890
+#EXTINF:-1,GLOBO BAHIA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162782
+#EXTINF:-1,GLOBO BAHIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162783
+#EXTINF:-1,GLOBO BAHIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162924
+#EXTINF:-1,GLOBO BELEM FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162900
+#EXTINF:-1,GLOBO BELEM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162784
+#EXTINF:-1,GLOBO BELEM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162925
+#EXTINF:-1,GLOBO BOA VISTA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162785
+#EXTINF:-1,GLOBO BOA VISTA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162786
+#EXTINF:-1,GLOBO BOA VISTA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162926
+#EXTINF:-1,GLOBO BRASILIA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162901
+#EXTINF:-1,GLOBO BRASILIA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162787
+#EXTINF:-1,GLOBO BRASILIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162788
+#EXTINF:-1,GLOBO BRASILIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162927
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162789
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162790
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162928
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162791
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162792
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162929
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162930
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162847
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162793
+#EXTINF:-1,GLOBO FLORIANOPOLIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162902
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162794
+#EXTINF:-1,GLOBO FLORIANOPOLIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162931
+#EXTINF:-1,GLOBO GAZETA VITORIA  ES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162795
+#EXTINF:-1,GLOBO GAZETA VITORIA  ES SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162932
+#EXTINF:-1,GLOBO GAZETA VITORIA ES FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162796
+#EXTINF:-1,GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162884
+#EXTINF:-1,GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162883
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162837
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162838
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162797
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162933
+#EXTINF:-1,GLOBO INTER TV CABUGI FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162885
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162798
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162934
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162903
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162904
+#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162854
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162800
+#EXTINF:-1,GLOBO INTER VALE MG FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162855
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162799
+#EXTINF:-1,GLOBO JOAÇABA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162879
+#EXTINF:-1,GLOBO JOAÇABA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162880
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162857
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162856
+#EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162877
+#EXTINF:-1,GLOBO JUIZ DE FORA MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162878
+#EXTINF:-1,GLOBO JUIZ DE FORA MG SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162935
+#EXTINF:-1,GLOBO MARANHÃO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162864
+#EXTINF:-1,GLOBO MINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162905
+#EXTINF:-1,GLOBO MINAS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162840
+#EXTINF:-1,GLOBO MINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162801
+#EXTINF:-1,GLOBO MINAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162936
+#EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162881
+#EXTINF:-1,GLOBO MOGI DAS CRUZES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162882
+#EXTINF:-1,GLOBO MONTES CLAROS MG FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162873
+#EXTINF:-1,GLOBO MONTES CLAROS MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162874
+#EXTINF:-1,GLOBO NEWS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162668
+#EXTINF:-1,GLOBO NEWS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162672
+#EXTINF:-1,GLOBO NEWS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162669
+#EXTINF:-1,GLOBO NEWS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162681
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162802
+#EXTINF:-1,GLOBO NORDESTE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162803
+#EXTINF:-1,GLOBO NORDESTE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162937
+#EXTINF:-1,GLOBO NSC SANTA CATARINA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162846
+#EXTINF:-1,GLOBO NSC TV BLUMENAL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162862
+#EXTINF:-1,GLOBO NSC TV BLUMENAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162938
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162804
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162893
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162805
+#EXTINF:-1,GLOBO NSC TV CHAPECO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162939
+#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162906
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162865
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162806
+#EXTINF:-1,GLOBO PARAIBA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162863
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162875
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162876
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162907
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162872
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162809
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162940
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162849
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162848
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162941
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162861
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162860
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162942
+#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162850
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162851
+#EXTINF:-1,GLOBO RBS TV PELOTAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162943
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162908
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162944
+#EXTINF:-1,GLOBO RECIFE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162909
+#EXTINF:-1,GLOBO RECIFE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162945
+#EXTINF:-1,GLOBO RJ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162811
+#EXTINF:-1,GLOBO RJ FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162910
+#EXTINF:-1,GLOBO RJ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162812
+#EXTINF:-1,GLOBO RJ SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162946
+#EXTINF:-1,GLOBO RPC  TV MARINGA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162911
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162859
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162858
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162813
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162814
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162947
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162852
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162815
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162816
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162867
+#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162912
+#EXTINF:-1,GLOBO RPC TV MARINGA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162817
+#EXTINF:-1,GLOBO SERGIPE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162913
+#EXTINF:-1,GLOBO SERGIPE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162818
+#EXTINF:-1,GLOBO SJRP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162819
+#EXTINF:-1,GLOBO SJRP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162948
+#EXTINF:-1,GLOBO SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162820
+#EXTINF:-1,GLOBO SP FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162839
+#EXTINF:-1,GLOBO SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162821
+#EXTINF:-1,GLOBO SP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162949
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162841
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162822
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162950
+#EXTINF:-1,GLOBO TV ASA BRANCA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162842
+#EXTINF:-1,GLOBO TV ASA BRANCA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162823
+#EXTINF:-1,GLOBO TV CABO BRANCO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162892
+#EXTINF:-1,GLOBO TV CABO BRANCO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162824
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162825
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162951
+#EXTINF:-1,GLOBO TV CENTRO AMERICA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162914
+#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162826
+#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162827
+#EXTINF:-1,GLOBO TV CLUBE TERESINA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162952
+#EXTINF:-1,GLOBO TV DIARIO FORTALEZA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162923
+#EXTINF:-1,GLOBO TV DIARIO FORTALEZA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162828
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162829
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162830
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162953
+#EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162915
+#EXTINF:-1,GLOBO TV GAZETA SUL ES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162831
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162897
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162832
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162916
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162917
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162954
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162918
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162919
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162955
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162833
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162866
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162810
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162956
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162807
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162808
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162957
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162834
+#EXTINF:-1,GLOBO TV RIO SUL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162958
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162920
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162844
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162845
+#EXTINF:-1,GLOBO TV SUBAE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162959
+#EXTINF:-1,GLOBO TV TEM BAURU FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162868
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162869
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162960
+#EXTINF:-1,GLOBO TV TEM ITAPE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162870
+#EXTINF:-1,GLOBO TV TEM ITAPE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162871
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162894
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162895
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162961
+#EXTINF:-1,GLOBO TV TRIBUNA FHD (SANTOS)
+http://top.streancdn.fun:80/0987654321/1234567890/2162898
+#EXTINF:-1,GLOBO TV TRIBUNA HD (SANTOS)
+http://top.streancdn.fun:80/0987654321/1234567890/2162853
+#EXTINF:-1,GLOBO TV TRIBUNA SD (SANTOS)
+http://top.streancdn.fun:80/0987654321/1234567890/2162962
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162899
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162835
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162963
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162921
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162922
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162836
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162964
+#EXTINF:-1,GLOBO UBERABA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162843
+#EXTINF:-1,GLOBO UBERABA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162896
+#EXTINF:-1,GLOOB FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162631
+#EXTINF:-1,GLOOB FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162647
+#EXTINF:-1,GLOOB HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162632
+#EXTINF:-1,GLOOB SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162657
+#EXTINF:-1,GLOOBINHO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162639
+#EXTINF:-1,GLOOBINHO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162640
+#EXTINF:-1,GLOOBINHO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162658
+#EXTINF:-1,GNT FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162711
+#EXTINF:-1,GNT FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162731
+#EXTINF:-1,GNT HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162712
+#EXTINF:-1,GNT SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162754
+#EXTINF:-1,Guardiões da Galaxia 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163241
+#EXTINF:-1,HBO 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162965
+#EXTINF:-1,HBO 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162980
+#EXTINF:-1,HBO 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162966
+#EXTINF:-1,HBO 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162988
+#EXTINF:-1,HBO 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163124
+#EXTINF:-1,HBO Familly FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162967
+#EXTINF:-1,HBO Familly FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162981
+#EXTINF:-1,HBO Familly HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162968
+#EXTINF:-1,HBO Familly SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162989
+#EXTINF:-1,HBO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162969
+#EXTINF:-1,HBO FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162982
+#EXTINF:-1,HBO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162970
+#EXTINF:-1,HBO MAX 01 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162434
+#EXTINF:-1,HBO MAX 02 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162435
+#EXTINF:-1,HBO MAX 03 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162458
+#EXTINF:-1,HBO MAX 04 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162459
+#EXTINF:-1,HBO MAX 05 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162473
+#EXTINF:-1,HBO MAX 06 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162474
+#EXTINF:-1,HBO MUNDI FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162971
+#EXTINF:-1,HBO MUNDI FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162983
+#EXTINF:-1,HBO MUNDI HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162972
+#EXTINF:-1,HBO MUNDI SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162990
+#EXTINF:-1,HBO PLUS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162973
+#EXTINF:-1,HBO PLUS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162984
+#EXTINF:-1,HBO PLUS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162974
+#EXTINF:-1,HBO PLUS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162991
+#EXTINF:-1,HBO POP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162975
+#EXTINF:-1,HBO POP FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162985
+#EXTINF:-1,HBO POP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162976
+#EXTINF:-1,HBO POP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162992
+#EXTINF:-1,HBO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162993
+#EXTINF:-1,HBO SIGNATURE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162986
+#EXTINF:-1,HBO SIGNATURE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162977
+#EXTINF:-1,HBO SIGNATURE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162994
+#EXTINF:-1,HBO XTREME 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163130
+#EXTINF:-1,HBO XTREME FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162978
+#EXTINF:-1,HBO XTREME FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162987
+#EXTINF:-1,HBO XTREME HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162979
+#EXTINF:-1,HBO XTREME SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162995
+#EXTINF:-1,He-Man 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163242
+#EXTINF:-1,HGTV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162585
+#EXTINF:-1,HGTV FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162605
+#EXTINF:-1,HGTV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162586
+#EXTINF:-1,Historias Disney 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163244
+#EXTINF:-1,HISTORY 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162583
+#EXTINF:-1,HISTORY 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162601
+#EXTINF:-1,HISTORY 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162584
+#EXTINF:-1,HISTORY 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162619
+#EXTINF:-1,HISTORY FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162587
+#EXTINF:-1,HISTORY FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162602
+#EXTINF:-1,HISTORY HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162588
+#EXTINF:-1,HISTORY SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162620
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163245
+#EXTINF:-1,Homem de Ferro 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163246
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163247
+#EXTINF:-1,Hércules 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163243
+#EXTINF:-1,ID DISCOVERY FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162589
+#EXTINF:-1,ID DISCOVERY FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162603
+#EXTINF:-1,ID DISCOVERY HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162590
+#EXTINF:-1,ID DISCOVERY SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162621
+#EXTINF:-1,Incrível Hulk 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163248
+#EXTINF:-1,Jack-Chan 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163249
+#EXTINF:-1,Jaspion 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163250
+#EXTINF:-1,JEZABEL 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163317
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163251
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162674
+#EXTINF:-1,JOVEM PAN NEWS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162678
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162673
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162682
+#EXTINF:-1,JURASSIC WORLD 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163307
+#EXTINF:-1,Kenan e Kel 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163252
+#EXTINF:-1,LA CASA DE PAPEL 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163308
+#EXTINF:-1,LIFETIME FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162713
+#EXTINF:-1,LIFETIME FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162732
+#EXTINF:-1,LIFETIME HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162714
+#EXTINF:-1,LIFETIME SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162755
+#EXTINF:-1,Liga da Justica 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163299
+#EXTINF:-1,LIGA FUTSAL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162476
+#EXTINF:-1,LOVE NATURE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162609
+#EXTINF:-1,LOVE NATURE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162606
+#EXTINF:-1,LUCAS NETO 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163310
+#EXTINF:-1,Luluzinha 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163253
+#EXTINF:-1,MASTERCHEF EUA 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163320
+#EXTINF:-1,Medabots 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163254
+#EXTINF:-1,MEGA MAN 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163312
+#EXTINF:-1,MEGA MAN 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163313
+#EXTINF:-1,MegaMan 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163255
+#EXTINF:-1,Megapix 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163125
+#EXTINF:-1,MEGAPIX FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162495
+#EXTINF:-1,MEGAPIX FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162528
+#EXTINF:-1,MEGAPIX HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162496
+#EXTINF:-1,MEGAPIX SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162554
+#EXTINF:-1,MODO VIAGEM FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162493
+#EXTINF:-1,MODO VIAGEM FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162527
+#EXTINF:-1,MODO VIAGEM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162494
+#EXTINF:-1,MODO VIAGEM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162555
+#EXTINF:-1,Mortal Kombat 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163256
+#EXTINF:-1,Mr.Ben 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163257
+#EXTINF:-1,MTV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162715
+#EXTINF:-1,MTV FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162733
+#EXTINF:-1,MTV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162716
+#EXTINF:-1,MTV LIVE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162744
+#EXTINF:-1,MTV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162756
+#EXTINF:-1,Multishow 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163126
+#EXTINF:-1,MULTISHOW FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162717
+#EXTINF:-1,MULTISHOW FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162734
+#EXTINF:-1,MULTISHOW HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162718
+#EXTINF:-1,MULTISHOW SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162757
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162719
+#EXTINF:-1,NARUTO 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163258
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163259
+#EXTINF:-1,NATGEO 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163132
+#EXTINF:-1,NATGEO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162591
+#EXTINF:-1,NATGEO FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162604
+#EXTINF:-1,NATGEO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162592
+#EXTINF:-1,NATGEO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162622
+#EXTINF:-1,NHK WORLD HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162593
+#EXTINF:-1,NICK JR FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162633
+#EXTINF:-1,NICK JR FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162649
+#EXTINF:-1,NICK JR HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162634
+#EXTINF:-1,NICK JR SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162659
+#EXTINF:-1,NICKELODEON FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162635
+#EXTINF:-1,NICKELODEON FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162648
+#EXTINF:-1,NICKELODEON HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162636
+#EXTINF:-1,NICKELODEON SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162660
+#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163260
+#EXTINF:-1,O INSPETOR 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163261
+#EXTINF:-1,O MASKARA 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163262
+#EXTINF:-1,O REI DO GADO 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163318
+#EXTINF:-1,OFF FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163198
+#EXTINF:-1,OFF FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163199
+#EXTINF:-1,OFF HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163200
+#EXTINF:-1,OFF SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163209
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163263
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163264
+#EXTINF:-1,OS FLINTSTONES 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163265
+#EXTINF:-1,OS SIMPSONS 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163266
+#EXTINF:-1,Os Vingadores 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163267
+#EXTINF:-1,PAC MAN 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163315
+#EXTINF:-1,Papa-Léguas 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163268
+#EXTINF:-1,PARAMOUNT FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162497
+#EXTINF:-1,PARAMOUNT FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162529
+#EXTINF:-1,PARAMOUNT HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162498
+#EXTINF:-1,PARAMOUNT SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162556
+#EXTINF:-1,Peppa Pig 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163269
+#EXTINF:-1,PERNALONGA 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163270
+#EXTINF:-1,Phineas e Ferb 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163271
+#EXTINF:-1,PICA PAU 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163272
+#EXTINF:-1,Pink-e-Cerebro 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163273
+#EXTINF:-1,POKEMON 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163274
+#EXTINF:-1,POLISHOP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162758
+#EXTINF:-1,Popeye O Marinheiro 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163275
+#EXTINF:-1,PREMIERE 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163136
+#EXTINF:-1,PREMIERE 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163137
+#EXTINF:-1,PREMIERE 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163138
+#EXTINF:-1,PREMIERE 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163158
+#EXTINF:-1,PREMIERE 3 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163139
+#EXTINF:-1,PREMIERE 3 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163140
+#EXTINF:-1,PREMIERE 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163141
+#EXTINF:-1,PREMIERE 3 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163159
+#EXTINF:-1,PREMIERE 4 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163142
+#EXTINF:-1,PREMIERE 4 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163143
+#EXTINF:-1,PREMIERE 4 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163144
+#EXTINF:-1,PREMIERE 4 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163160
+#EXTINF:-1,PREMIERE 5 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163145
+#EXTINF:-1,PREMIERE 5 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163146
+#EXTINF:-1,PREMIERE 5 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163147
+#EXTINF:-1,PREMIERE 5 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163161
+#EXTINF:-1,PREMIERE 6 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163148
+#EXTINF:-1,PREMIERE 6 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163149
+#EXTINF:-1,PREMIERE 6 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163150
+#EXTINF:-1,PREMIERE 6 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163162
+#EXTINF:-1,PREMIERE 7 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163151
+#EXTINF:-1,PREMIERE 7 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163157
+#EXTINF:-1,PREMIERE 7 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163152
+#EXTINF:-1,PREMIERE 7 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163163
+#EXTINF:-1,Premiere Clubes 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163113
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163153
+#EXTINF:-1,PREMIERE CLUBES FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163154
+#EXTINF:-1,PREMIERE CLUBES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163155
+#EXTINF:-1,PREMIERE CLUBES SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163164
+#EXTINF:-1,Rambo 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163276
+#EXTINF:-1,Record 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163112
+#EXTINF:-1,RECORD BAHIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162996
+#EXTINF:-1,RECORD BAHIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163019
+#EXTINF:-1,RECORD BRASILIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162997
+#EXTINF:-1,RECORD BRASILIA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163020
+#EXTINF:-1,RECORD CAMPINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163015
+#EXTINF:-1,RECORD CAMPINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162998
+#EXTINF:-1,RECORD GOIAS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163007
+#EXTINF:-1,RECORD GOIAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162999
+#EXTINF:-1,RECORD GOIAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163021
+#EXTINF:-1,RECORD MANAUS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163000
+#EXTINF:-1,RECORD MANAUS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163022
+#EXTINF:-1,RECORD MINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163001
+#EXTINF:-1,RECORD MINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163011
+#EXTINF:-1,RECORD MINAS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163023
+#EXTINF:-1,RECORD NEWS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162676
+#EXTINF:-1,RECORD NEWS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162670
+#EXTINF:-1,RECORD NEWS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162683
+#EXTINF:-1,RECORD RJ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163018
+#EXTINF:-1,RECORD RJ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163002
+#EXTINF:-1,RECORD RJ SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163024
+#EXTINF:-1,RECORD RS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163017
+#EXTINF:-1,RECORD RS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163003
+#EXTINF:-1,RECORD RS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163025
+#EXTINF:-1,RECORD SANTOS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163010
+#EXTINF:-1,RECORD SERGIPE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163009
+#EXTINF:-1,RECORD SJRP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163008
+#EXTINF:-1,RECORD SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163004
+#EXTINF:-1,RECORD SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163005
+#EXTINF:-1,RECORD SP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163026
+#EXTINF:-1,RECORD TV BELEM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163006
+#EXTINF:-1,RECORD TV BELEM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163027
+#EXTINF:-1,RECORD TV PARANÁ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163016
+#EXTINF:-1,RECORD TV PARANÁ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163014
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163013
+#EXTINF:-1,RECORD UBERLANDIA MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163012
+#EXTINF:-1,REDE 21 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162769
+#EXTINF:-1,REDE BRASIL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163046
+#EXTINF:-1,REDE GOSPEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162765
+#EXTINF:-1,REDE SUPER FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162770
+#EXTINF:-1,REDE TV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163028
+#EXTINF:-1,REDE TV FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163031
+#EXTINF:-1,REDE TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163029
+#EXTINF:-1,REDE TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163047
+#EXTINF:-1,REDE VIDA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162771
+#EXTINF:-1,REDE VIDA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163156
+#EXTINF:-1,REDE VIDA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162775
+#EXTINF:-1,REDETV 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163134
+#EXTINF:-1,RIT TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162766
+#EXTINF:-1,RIT TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162776
+#EXTINF:-1,SBT 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163127
+#EXTINF:-1,SBT ARATU BAHIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163075
+#EXTINF:-1,SBT BRASILIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163072
+#EXTINF:-1,SBT CAMPINAS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163078
+#EXTINF:-1,SBT CAMPINAS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163077
+#EXTINF:-1,SBT PR FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163063
+#EXTINF:-1,SBT PR HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163064
+#EXTINF:-1,SBT RJ FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163065
+#EXTINF:-1,SBT RJ HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163076
+#EXTINF:-1,SBT RJ SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163083
+#EXTINF:-1,SBT RS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163073
+#EXTINF:-1,SBT SERGIPE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163074
+#EXTINF:-1,SBT SERRA DOURADA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163066
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163071
+#EXTINF:-1,SBT SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163067
+#EXTINF:-1,SBT SP FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163081
+#EXTINF:-1,SBT SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163068
+#EXTINF:-1,SBT SP SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163084
+#EXTINF:-1,SBT TV ALTEROSA MG FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163080
+#EXTINF:-1,SBT TV ALTEROSA MG HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163079
+#EXTINF:-1,SBT TV CIDADE VERDE (PI) HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163070
+#EXTINF:-1,SBT TV JANGADEIRO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163082
+#EXTINF:-1,SBT TV JORNAL (PE) HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163069
+#EXTINF:-1,Scooby-Doo 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163277
+#EXTINF:-1,SHOPTIME FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162747
+#EXTINF:-1,SHOPTIME HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162742
+#EXTINF:-1,Smallville 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163278
+#EXTINF:-1,Sobrenatural 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163279
+#EXTINF:-1,South Park 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163280
+#EXTINF:-1,Space 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163128
+#EXTINF:-1,SPACE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162499
+#EXTINF:-1,SPACE FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162530
+#EXTINF:-1,SPACE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162500
+#EXTINF:-1,SPACE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162557
+#EXTINF:-1,SPORTV 2 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163189
+#EXTINF:-1,SPORTV 2 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163190
+#EXTINF:-1,SPORTV 2 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163191
+#EXTINF:-1,SPORTV 2 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163210
+#EXTINF:-1,SPORTV 3 FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163192
+#EXTINF:-1,SPORTV 3 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163193
+#EXTINF:-1,SPORTV 3 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163194
+#EXTINF:-1,SPORTV 3 SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163211
+#EXTINF:-1,SporTV 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163129
+#EXTINF:-1,SPORTV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163195
+#EXTINF:-1,SPORTV FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163196
+#EXTINF:-1,SPORTV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163197
+#EXTINF:-1,SPORTV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163212
+#EXTINF:-1,STAR CHANNEL 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163121
+#EXTINF:-1,STAR CHANNEL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162501
+#EXTINF:-1,STAR CHANNEL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162531
+#EXTINF:-1,STAR CHANNEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162502
+#EXTINF:-1,STAR CHANNEL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162558
+#EXTINF:-1,STAR LIFE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162503
+#EXTINF:-1,STAR LIFE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162504
+#EXTINF:-1,STAR LIFE SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162559
+#EXTINF:-1,STAR+ 1
+http://top.streancdn.fun:80/0987654321/1234567890/2162460
+#EXTINF:-1,STAR+ 2
+http://top.streancdn.fun:80/0987654321/1234567890/2162461
+#EXTINF:-1,STAR+ 3
+http://top.streancdn.fun:80/0987654321/1234567890/2162462
+#EXTINF:-1,STAR+ 4
+http://top.streancdn.fun:80/0987654321/1234567890/2162463
+#EXTINF:-1,STAR+ 5
+http://top.streancdn.fun:80/0987654321/1234567890/2162464
+#EXTINF:-1,STAR+ 6
+http://top.streancdn.fun:80/0987654321/1234567890/2162465
+#EXTINF:-1,Steven Universe 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163281
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162505
+#EXTINF:-1,STUDIO UNIVERSAL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162532
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162506
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162560
+#EXTINF:-1,Super Choque 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163302
+#EXTINF:-1,Superman 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163282
+#EXTINF:-1,SYFY FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162507
+#EXTINF:-1,SYFY FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162533
+#EXTINF:-1,SYFY HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162508
+#EXTINF:-1,SYFY SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163103
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163283
+#EXTINF:-1,TAZ MANIA 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163305
+#EXTINF:-1,TBS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162509
+#EXTINF:-1,TBS FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162534
+#EXTINF:-1,TBS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162510
+#EXTINF:-1,TBS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162561
+#EXTINF:-1,TCM FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162541
+#EXTINF:-1,TCM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162511
+#EXTINF:-1,TCM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162562
+#EXTINF:-1,TELECINE ACTION FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163085
+#EXTINF:-1,TELECINE ACTION FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163097
+#EXTINF:-1,TELECINE ACTION HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163086
+#EXTINF:-1,TELECINE ACTION SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163104
+#EXTINF:-1,TELECINE ACTION SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163105
+#EXTINF:-1,TELECINE CULT FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163087
+#EXTINF:-1,TELECINE CULT FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163098
+#EXTINF:-1,TELECINE CULT HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163088
+#EXTINF:-1,TELECINE CULT SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163106
+#EXTINF:-1,TELECINE FUN FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163089
+#EXTINF:-1,TELECINE FUN FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163099
+#EXTINF:-1,TELECINE FUN HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163090
+#EXTINF:-1,TELECINE FUN SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163107
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163135
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163091
+#EXTINF:-1,TELECINE PIPOCA FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163100
+#EXTINF:-1,TELECINE PIPOCA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163092
+#EXTINF:-1,TELECINE PIPOCA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163108
+#EXTINF:-1,Telecine Premium 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163114
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163093
+#EXTINF:-1,TELECINE PREMIUM FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163101
+#EXTINF:-1,TELECINE PREMIUM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163094
+#EXTINF:-1,TELECINE PREMIUM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163109
+#EXTINF:-1,TELECINE TOUCH FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163095
+#EXTINF:-1,TELECINE TOUCH FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2163102
+#EXTINF:-1,TELECINE TOUCH HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163096
+#EXTINF:-1,TELECINE TOUCH SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163110
+#EXTINF:-1,Thundercats 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163284
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163285
+#EXTINF:-1,TLC FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162720
+#EXTINF:-1,TLC FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162735
+#EXTINF:-1,TLC HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162721
+#EXTINF:-1,TLC SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162759
+#EXTINF:-1,TNT 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163115
+#EXTINF:-1,TNT FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162512
+#EXTINF:-1,TNT FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162535
+#EXTINF:-1,TNT HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162513
+#EXTINF:-1,TNT SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162563
+#EXTINF:-1,TNT Series 4K
+http://top.streancdn.fun:80/0987654321/1234567890/2163116
+#EXTINF:-1,TNT SERIES FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162514
+#EXTINF:-1,TNT SERIES FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162536
+#EXTINF:-1,TNT SERIES HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162515
+#EXTINF:-1,TNT SERIES SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162564
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163286
+#EXTINF:-1,Tom & Jerry 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163287
+#EXTINF:-1,TOONCAST FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162637
+#EXTINF:-1,TOONCAST HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162638
+#EXTINF:-1,TOONCAST SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162661
+#EXTINF:-1,TRAVEL BOX BRASIL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162746
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162741
+#EXTINF:-1,Tres Espias Demais 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163288
+#EXTINF:-1,TRUTV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162745
+#EXTINF:-1,TRUTV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162722
+#EXTINF:-1,TRUTV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162760
+#EXTINF:-1,TV APARECIDA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162777
+#EXTINF:-1,TV BRASIL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163037
+#EXTINF:-1,TV BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163032
+#EXTINF:-1,TV BRASIL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163048
+#EXTINF:-1,TV CAMARA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163049
+#EXTINF:-1,TV CULTURA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163038
+#EXTINF:-1,TV CULTURA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163050
+#EXTINF:-1,TV ESCOLA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163051
+#EXTINF:-1,TV EVANGELIZAR SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162778
+#EXTINF:-1,TV EVANGILIZAR FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162772
+#EXTINF:-1,TV EVANGILIZAR HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162773
+#EXTINF:-1,TV GAZETA SP FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163039
+#EXTINF:-1,TV GAZETA SP HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163030
+#EXTINF:-1,TV JUSTIÇA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163052
+#EXTINF:-1,TV MUNDIAL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162779
+#EXTINF:-1,TV NOVO TEMPO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162767
+#EXTINF:-1,TV NOVO TEMPO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162780
+#EXTINF:-1,TV PAI ETERNO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162768
+#EXTINF:-1,TV PAI ETERNO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162781
+#EXTINF:-1,TV PAMPA RS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163034
+#EXTINF:-1,TV PAMPA RS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163033
+#EXTINF:-1,TV RATIMBUM HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162641
+#EXTINF:-1,TV RATIMBUM SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162662
+#EXTINF:-1,TV SENADO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163053
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163289
+#EXTINF:-1,Uma Família da Pesada 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163290
+#EXTINF:-1,UNIVERSAL TV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162516
+#EXTINF:-1,UNIVERSAL TV FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162537
+#EXTINF:-1,UNIVERSAL TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162517
+#EXTINF:-1,UNIVERSAL TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162565
+#EXTINF:-1,Ursinhos Carinhos 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163291
+#EXTINF:-1,VAI QUE COLA 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163300
+#EXTINF:-1,Vai Que Cola 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163301
+#EXTINF:-1,VELOZES E FURIOSOS 24HRS
+http://top.streancdn.fun:80/0987654321/1234567890/2163304
+#EXTINF:-1,VH1 FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162737
+#EXTINF:-1,VH1 HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162740
+#EXTINF:-1,VH1 MEGAHITS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162761
+#EXTINF:-1,VIVA FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162723
+#EXTINF:-1,VIVA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162724
+#EXTINF:-1,VIVA SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162762
+#EXTINF:-1,WARNER CHANNEL FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162518
+#EXTINF:-1,WARNER CHANNEL FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162538
+#EXTINF:-1,WARNER CHANNEL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162519
+#EXTINF:-1,WARNER CHANNEL SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162566
+#EXTINF:-1,WOOHOO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162725
+#EXTINF:-1,WOOHOO FHD (H265)
+http://top.streancdn.fun:80/0987654321/1234567890/2162736
+#EXTINF:-1,WOOHOO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162726
+#EXTINF:-1,WOOHOO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162763
+#EXTINF:-1,X-MAN 24HS
+http://top.streancdn.fun:80/0987654321/1234567890/2163292
+#EXTINF:-1,Xena 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163293
+#EXTINF:-1,YU-GI-OH 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163294
+#EXTINF:-1,YU-YU-Hakusho 24hs
+http://top.streancdn.fun:80/0987654321/1234567890/2163295
+#EXTINF:-1,ZOOMO HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162642
+#EXTINF:-1,ZOOMO SD
+http://top.streancdn.fun:80/0987654321/1234567890/2162663
+#EXTINF:-1,ZOOMOO FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2162652
+#EXTINF:-1,PLAYBOY TV HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163323
+#EXTINF:-1,SEXY PRIVE FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163324
+#EXTINF:-1,SEXY PRIVE HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163325
+#EXTINF:-1,SEXY HOT FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163326
+#EXTINF:-1,SEXY HOT HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163327
+#EXTINF:-1,PLAYBOY TV FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163328
+#EXTINF:-1,PLAYBOY TV SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163329
+#EXTINF:-1,SEXTREME SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163330
+#EXTINF:-1,SEXY HOT SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163331
+#EXTINF:-1,CINE SKY 01
+http://top.streancdn.fun:80/0987654321/1234567890/2163332
+#EXTINF:-1,CINE SKY 02
+http://top.streancdn.fun:80/0987654321/1234567890/2163333
+#EXTINF:-1,CINE SKY 03
+http://top.streancdn.fun:80/0987654321/1234567890/2163334
+#EXTINF:-1,CINE SKY 04
+http://top.streancdn.fun:80/0987654321/1234567890/2163335
+#EXTINF:-1,CINE SKY 05
+http://top.streancdn.fun:80/0987654321/1234567890/2163336
+#EXTINF:-1,CINE SKY 06
+http://top.streancdn.fun:80/0987654321/1234567890/2163337
+#EXTINF:-1,CINE SKY 07
+http://top.streancdn.fun:80/0987654321/1234567890/2163338
+#EXTINF:-1,CINE SKY 08
+http://top.streancdn.fun:80/0987654321/1234567890/2163339
+#EXTINF:-1,CINE SKY 09
+http://top.streancdn.fun:80/0987654321/1234567890/2163340
+#EXTINF:-1,CINE SKY 10
+http://top.streancdn.fun:80/0987654321/1234567890/2163341
+#EXTINF:-1,CINE SKY 11
+http://top.streancdn.fun:80/0987654321/1234567890/2163342
+#EXTINF:-1,CINE SKY 12
+http://top.streancdn.fun:80/0987654321/1234567890/2163343
+#EXTINF:-1,CINE SKY 13
+http://top.streancdn.fun:80/0987654321/1234567890/2163344
+#EXTINF:-1,CINE SKY 14
+http://top.streancdn.fun:80/0987654321/1234567890/2163345
+#EXTINF:-1,CINE SKY 15
+http://top.streancdn.fun:80/0987654321/1234567890/2163346
+#EXTINF:-1,BR: A&E
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11899
+#EXTINF:-1,BR: AMC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11898
+#EXTINF:-1,BR: ANIMAL PLANET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/12018
+#EXTINF:-1,BR: AXN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11827
+#EXTINF:-1,BR: BABY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27780
+#EXTINF:-1,BR: BAND NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8054
+#EXTINF:-1,BR: BAND SPORT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11821
+#EXTINF:-1,BR: BOOMERANG
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11936
+#EXTINF:-1,BR: CARTOON NETWORK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27805
+#EXTINF:-1,BR: CINEMAX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11902
+#EXTINF:-1,BR: COMBATE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11785
+#EXTINF:-1,BR: COMEDY CENTRAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14123
+#EXTINF:-1,BR: CONMEBOL 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234296
+#EXTINF:-1,BR: DISCOVERY CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14075
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11922
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/29155
+#EXTINF:-1,BR: DISCOVERY ID
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42037
+#EXTINF:-1,BR: DISCOVERY KIDS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11913
+#EXTINF:-1,BR: DISCOVERY SCIENCE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11930
+#EXTINF:-1,BR: DISCOVERY THEATER
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11912
+#EXTINF:-1,BR: DISCOVERY TLC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11971
+#EXTINF:-1,BR: DISCOVERY TURBO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11926
+#EXTINF:-1,BR: DISCOVERY WORLD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11914
+#EXTINF:-1,BR: DISNEY CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11915
+#EXTINF:-1,BR: DISNEY JR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11937
+#EXTINF:-1,BR: DISNEY XD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11938
+#EXTINF:-1,BR: E!
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8045
+#EXTINF:-1,BR: ESPN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8042
+#EXTINF:-1,BR: ESPN 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11809
+#EXTINF:-1,BR: FOOD NETWORK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11957
+#EXTINF:-1,BR: FOX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11829
+#EXTINF:-1,BR: FOX LIFE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11830
+#EXTINF:-1,BR: FOX SPORTS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13980
+#EXTINF:-1,BR: FOX SPORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234305
+#EXTINF:-1,BR: FX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11847
+#EXTINF:-1,BR: GLOBO EPTV CAMPINAS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234315
+#EXTINF:-1,BR: GLOBO INTERNACIONAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234323
+#EXTINF:-1,BR: GLOBO NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8035
+#EXTINF:-1,BR: GLOBO RJ
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27871
+#EXTINF:-1,BR: GLOBO SP
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13926
+#EXTINF:-1,BR: GLOOB
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13954
+#EXTINF:-1,BR: GNT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11970
+#EXTINF:-1,BR: H2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14094
+#EXTINF:-1,BR: HBO 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11834
+#EXTINF:-1,BR: HBO 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11833
+#EXTINF:-1,BR: HBO FAMILY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11852
+#EXTINF:-1,BR: HBO PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11835
+#EXTINF:-1,BR: HBO SIGNATURE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11848
+#EXTINF:-1,BR: HISTORY CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11962
+#EXTINF:-1,BR: LIFE TIME
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11963
+#EXTINF:-1,BR: MAX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11849
+#EXTINF:-1,BR: MEGA PIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11855
+#EXTINF:-1,BR: MTV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/29138
+#EXTINF:-1,BR: MULTI SHOW
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11965
+#EXTINF:-1,BR: NAT GEO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14108
+#EXTINF:-1,BR: NAT GEO KIDS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11935
+#EXTINF:-1,BR: NAT GEO WILD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11958
+#EXTINF:-1,BR: NICKELODEON
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27914
+#EXTINF:-1,BR: NOVO TEMPO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27917
+#EXTINF:-1,BR: OFF
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11976
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11941
+#EXTINF:-1,BR: PREMIERE 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8024
+#EXTINF:-1,BR: PREMIERE 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8023
+#EXTINF:-1,BR: PREMIERE 4
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8022
+#EXTINF:-1,BR: PREMIERE 5
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8021
+#EXTINF:-1,BR: PREMIERE 6
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8020
+#EXTINF:-1,BR: PREMIERE CLUBES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8019
+#EXTINF:-1,BR: RA TIM BUM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42029
+#EXTINF:-1,BR: RECORD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8018
+#EXTINF:-1,BR: RECORD NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14116
+#EXTINF:-1,BR: REDE TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/12012
+#EXTINF:-1,BR: RPC TV CURITIBA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234363
+#EXTINF:-1,BR: SBT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/12017
+#EXTINF:-1,BR: SBT NORDESTE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13894
+#EXTINF:-1,BR: SONY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14042
+#EXTINF:-1,BR: SPACE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14045
+#EXTINF:-1,BR: SPORTV 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8016
+#EXTINF:-1,BR: SPORTV 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11819
+#EXTINF:-1,BR: SPORTV 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11820
+#EXTINF:-1,BR: STUDIO UNIVERSAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11838
+#EXTINF:-1,BR: SYFY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14139
+#EXTINF:-1,BR: TBS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11967
+#EXTINF:-1,BR: TCM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27958
+#EXTINF:-1,BR: TELE CINE ACTION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11844
+#EXTINF:-1,BR: TELE CINE CULT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11856
+#EXTINF:-1,BR: TELE CINE FUN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11843
+#EXTINF:-1,BR: TELE CINE PIPOCA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11842
+#EXTINF:-1,BR: TELE CINE PREMIUM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11841
+#EXTINF:-1,BR: TELE CINE TOUCH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11840
+#EXTINF:-1,BR: TNT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11904
+#EXTINF:-1,BR: TNT SERIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11839
+#EXTINF:-1,BR: TOONCAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11955
+#EXTINF:-1,BR: TV BRASIL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27968
+#EXTINF:-1,BR: TV DIARIO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27972
+#EXTINF:-1,BR: TV EVANGELIZAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/234376
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11857
+#EXTINF:-1,BR: VIVA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11973
+#EXTINF:-1,BR: WARNER CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27996
+#EXTINF:-1,BR: WOHOO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
